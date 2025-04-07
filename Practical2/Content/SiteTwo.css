@@ -1,0 +1,34 @@
+﻿.column {
+    border: solid grey 1px;
+    margin: 4px;
+}
+
+body {
+    background-color: #a8d5e5;
+}
+
+.m_item a {
+    text-decoration: none;
+   padding: 9px;
+}
+
+.m_item {
+    list-style:none;
+}
+
+li a {
+    color: grey;
+}
+
+ul {
+    background-color: white;
+    border-radius: 5px;
+}
+
+li {
+    padding-bottom: 25px;
+   
+}
+
+
+
